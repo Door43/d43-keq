@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[keq:home|Door43 (keq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-keq|d43-keq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-keq/archive/master.zip|d43-keq.zip]]
+
+**Recent Changes**
+{{changes>ns = keq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/keq|Ethnologue data]]
+
